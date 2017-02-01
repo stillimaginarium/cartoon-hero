@@ -1,0 +1,19 @@
+header {
+	background-color: #16a085
+	padding: 40px 20px;
+	text-align: center;
+}
+
+h1 {
+	font-size: 90;
+	color: white;
+}
+
+header img {
+	border-radius: 150px;
+}
+
+/*<header>
+		<img src="profile.jpg">
+		<h1>Gladiator</h1>
+	</header>
